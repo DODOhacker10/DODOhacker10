@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DODOhacker10
+- 👀 I’m interested in Coding and Music
+- 🌱 I’m currently learning Japanese and More Phyton and Swift
+- 💞️ I’m looking to collaborate on Music and Coding based video rendering type projects.
+- 📫 How to reach me: business.dodohacker10@gmail.com
